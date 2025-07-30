@@ -30,5 +30,629 @@
     "codeV3": "ARCFUT",
     "codeV4": "ARFU",
     "code": ""
+  },
+  {
+    "name": "Artesania Textil",
+    "codeV1": "ARTEXT",
+    "codeV2": "ART",
+    "codeV3": "ARTEXT",
+    "codeV4": "ARTX",
+    "code": ""
+  },
+  {
+    "name": "Biología",
+    "codeV1": "BIO",
+    "codeV2": "BIO",
+    "codeV3": "BIO",
+    "codeV4": "BIOL",
+    "code": ""
+  },
+  {
+    "name": "Ciber Robótica",
+    "codeV1": "CIBROB",
+    "codeV2": "CIR",
+    "codeV3": "CIBROB",
+    "codeV4": "CERO",
+    "code": ""
+  },
+  {
+    "name": "Ciencias",
+    "codeV1": "CIEN",
+    "codeV2": "CIE",
+    "codeV3": "CIEN",
+    "codeV4": "CIEN",
+    "code": ""
+  },
+  {
+    "name": "Clasificación Arancelaria",
+    "codeV1": "CLSARAN",
+    "codeV2": "CLA",
+    "codeV3": "CLASAR",
+    "codeV4": "CLAR",
+    "code": ""
+  },
+  {
+    "name": "Cocina Básica",
+    "codeV1": "COCBAS",
+    "codeV2": "COB",
+    "codeV3": "COCBAS",
+    "codeV4": "COBA",
+    "code": ""
+  },
+  {
+    "name": "Comunicación Empresarial",
+    "codeV1": "COMEMP",
+    "codeV2": "COE",
+    "codeV3": "COMEMP",
+    "codeV4": "COEM",
+    "code": ""
+  },
+  {
+    "name": "Conociendo los Negocios",
+    "codeV1": "CONNEG",
+    "codeV2": "CON",
+    "codeV3": "CONNEG",
+    "codeV4": "CONE",
+    "code": ""
+  },
+  {
+    "name": "Conservemos la Fauna",
+    "codeV1": "CONSFAU",
+    "codeV2": "COF",
+    "codeV3": "CONFNA",
+    "codeV4": "COFA",
+    "code": ""
+  },
+  {
+    "name": "Consumamos y Tributemos",
+    "codeV1": "CONSTRI",
+    "codeV2": "COT",
+    "codeV3": "CONSTRI",
+    "codeV4": "CYTR",
+    "code": ""
+  },
+  {
+    "name": "Conversacional",
+    "codeV1": "CONVERS",
+    "codeV2": "CONV",
+    "codeV3": "CONV",
+    "codeV4": "CNRS",
+    "code": ""
+  },
+  {
+    "name": "Conversational English",
+    "codeV1": "CONENG",
+    "codeV2": "CONE",
+    "codeV3": "CONENG",
+    "codeV4": "CENG",
+    "code": ""
+  },
+  {
+    "name": "Destrezas Digitales",
+    "codeV1": "DESDIG",
+    "codeV2": "DED",
+    "codeV3": "DESDIG",
+    "codeV4": "DIDI",
+    "code": ""
+  },
+  {
+    "name": "Digitación Computacional",
+    "codeV1": "DIGCOMP",
+    "codeV2": "DIC",
+    "codeV3": "DIGCOMP",
+    "codeV4": "DICO",
+    "code": ""
+  },
+  {
+    "name": "Dinero y Finanzas",
+    "codeV1": "DINFIN",
+    "codeV2": "DIF",
+    "codeV3": "DINFIN",
+    "codeV4": "DYFI",
+    "code": ""
+  },
+  {
+    "name": "Diseño de Software",
+    "codeV1": "DISSOFT",
+    "codeV2": "DIS",
+    "codeV3": "DISOFT",
+    "codeV4": "DISO",
+    "code": ""
+  },
+  {
+    "name": "Educación Ambiental",
+    "codeV1": "EDAMBI",
+    "codeV2": "EDA",
+    "codeV3": "EDUAMB",
+    "codeV4": "EDAM",
+    "code": ""
+  },
+  {
+    "name": "Educación Cívica",
+    "codeV1": "EDCIV",
+    "codeV2": "EDC",
+    "codeV3": "EDUCIV",
+    "codeV4": "EDCI",
+    "code": ""
+  },
+  {
+    "name": "Educación Física",
+    "codeV1": "EDFIS",
+    "codeV2": "EDF",
+    "codeV3": "EDUFIS",
+    "codeV4": "EDFI",
+    "code": ""
+  },
+  {
+    "name": "Educación Musical",
+    "codeV1": "EDMUS",
+    "codeV2": "EDM",
+    "codeV3": "EDUMUS",
+    "codeV4": "EDMU",
+    "code": ""
+  },
+  {
+    "name": "Educación Religiosa",
+    "codeV1": "EDREL",
+    "codeV2": "EDR",
+    "codeV3": "EDUREL",
+    "codeV4": "EDRG",
+    "code": ""
+  },
+  {
+    "name": "Elementos de Producción",
+    "codeV1": "ELEMPRO",
+    "codeV2": "ELP",
+    "codeV3": "ELEMPR",
+    "codeV4": "ELPR",
+    "code": ""
+  },
+  {
+    "name": "Emprendimiento e Innovación",
+    "codeV1": "EMPINN",
+    "codeV2": "EMI",
+    "codeV3": "EMPINN",
+    "codeV4": "EEIN",
+    "code": ""
+  },
+  {
+    "name": "Empresa Turística",
+    "codeV1": "EMPTUR",
+    "codeV2": "EMT",
+    "codeV3": "EMPTUR",
+    "codeV4": "EMTR",
+    "code": ""
+  },
+  {
+    "name": "English Accounting",
+    "codeV1": "ENGACC",
+    "codeV2": "ENA",
+    "codeV3": "ENGACC",
+    "codeV4": "EACC",
+    "code": ""
+  },
+  {
+    "name": "English Agricultural",
+    "codeV1": "ENGAGR",
+    "codeV2": "ENGA",
+    "codeV3": "ENGAGR",
+    "codeV4": "EAGR",
+    "code": ""
+  },
+  {
+    "name": "English Service Executive",
+    "codeV1": "ENGSER",
+    "codeV2": "ESE",
+    "codeV3": "ENGSE",
+    "codeV4": "ESEV",
+    "code": ""
+  },
+  {
+    "name": "Español",
+    "codeV1": "ESP",
+    "codeV2": "ESP",
+    "codeV3": "ESP",
+    "codeV4": "ESPA",
+    "code": ""
+  },
+  {
+    "name": "Especies Menores",
+    "codeV1": "ESPMEN",
+    "codeV2": "ESM",
+    "codeV3": "ESPMEN",
+    "codeV4": "ESME",
+    "code": ""
+  },
+  {
+    "name": "Estrategia Comercial Internacional",
+    "codeV1": "ESTCOM",
+    "codeV2": "ECI",
+    "codeV3": "ECOMINT",
+    "codeV4": "ECIN",
+    "code": ""
+  },
+  {
+    "name": "Estudios Sociales",
+    "codeV1": "ESTSOC",
+    "codeV2": "ESS",
+    "codeV3": "ESTSOC",
+    "codeV4": "EDSO",
+    "code": ""
+  },
+  {
+    "name": "Explotación Avícola",
+    "codeV1": "EXPAVI",
+    "codeV2": "EXA",
+    "codeV3": "EXPOAV",
+    "codeV4": "EXAV",
+    "code": ""
+  },
+  {
+    "name": "Explotación Bovina",
+    "codeV1": "EXPBOV",
+    "codeV2": "EXB",
+    "codeV3": "EXPOBO",
+    "codeV4": "EXBO",
+    "code": ""
+  },
+  {
+    "name": "Fibras Naturales",
+    "codeV1": "FIBNAT",
+    "codeV2": "FIN",
+    "codeV3": "FIBNAT",
+    "codeV4": "FINA",
+    "code": ""
+  },
+  {
+    "name": "Física",
+    "codeV1": "FIS",
+    "codeV2": "FIS",
+    "codeV3": "FIS",
+    "codeV4": "FIS",
+    "code": ""
+  },
+  {
+    "name": "Francés",
+    "codeV1": "FRA",
+    "codeV2": "FRA",
+    "codeV3": "FRA",
+    "codeV4": "FRAN",
+    "code": ""
+  },
+  {
+    "name": "Gestión Administrativa",
+    "codeV1": "GESADM",
+    "codeV2": "GEA",
+    "codeV3": "GESADM",
+    "codeV4": "GEAD",
+    "code": ""
+  },
+  {
+    "name": "Gestión Alimentos y Bebidas",
+    "codeV1": "GESALIM",
+    "codeV2": "GAB",
+    "codeV3": "GESAB",
+    "codeV4": "GABE",
+    "code": ""
+  },
+  {
+    "name": "Gestión Comercial",
+    "codeV1": "GESCOM",
+    "codeV2": "GEC",
+    "codeV3": "GESCOM",
+    "codeV4": "GECO",
+    "code": ""
+  },
+  {
+    "name": "Gestión Comercial y Com",
+    "codeV1": "GESCOMC",
+    "codeV2": "GCC",
+    "codeV3": "GESCOCO",
+    "codeV4": "GCOM",
+    "code": ""
+  },
+  {
+    "name": "Gestión Contable",
+    "codeV1": "GESCONT",
+    "codeV2": "GESC",
+    "codeV3": "GESCON",
+    "codeV4": "GCON",
+    "code": ""
+  },
+  {
+    "name": "Gestión Empresarial",
+    "codeV1": "GESEMP",
+    "codeV2": "GEE",
+    "codeV3": "GESEMP",
+    "codeV4": "GEEM",
+    "code": ""
+  },
+  {
+    "name": "Gestión en Costos",
+    "codeV1": "GESCOST",
+    "codeV2": "GESTC",
+    "codeV3": "GESCOS",
+    "codeV4": "GECI",
+    "code": ""
+  },
+  {
+    "name": "Gestión en Tecnologías",
+    "codeV1": "GESTEC",
+    "codeV2": "GET",
+    "codeV3": "GESTEC",
+    "codeV4": "GETE",
+    "code": ""
+  },
+  {
+    "name": "Gestión Tributaria",
+    "codeV1": "GESTRIB",
+    "codeV2": "GEST",
+    "codeV3": "GESTRI",
+    "codeV4": "GTRI",
+    "code": ""
+  },
+  {
+    "name": "Guía Naturalista",
+    "codeV1": "GUINAT",
+    "codeV2": "GUN",
+    "codeV3": "GUINAT",
+    "codeV4": "GUNA",
+    "code": ""
+  },
+  {
+    "name": "Hagamos Comercio Juntos",
+    "codeV1": "HAGCOM",
+    "codeV2": "HCS",
+    "codeV3": "HAGCOM",
+    "codeV4": "HACJ",
+    "code": ""
+  },
+  {
+    "name": "Informática Educativa",
+    "codeV1": "INFEDU",
+    "codeV2": "INE",
+    "codeV3": "INFOEDU",
+    "codeV4": "INED",
+    "code": ""
+  },
+  {
+    "name": "Inglés",
+    "codeV1": "ING",
+    "codeV2": "ING",
+    "codeV3": "ING",
+    "codeV4": "INGL",
+    "code": ""
+  },
+  {
+    "name": "Inglés Alimentos y Bebidas",
+    "codeV1": "INGALIM",
+    "codeV2": "IAB",
+    "codeV3": "INGAB",
+    "codeV4": "IAB",
+    "code": ""
+  },
+  {
+    "name": "Inglés Conver",
+    "codeV1": "INGCON",
+    "codeV2": "INC",
+    "codeV3": "INGCON",
+    "codeV4": "ICON",
+    "code": ""
+  },
+  {
+    "name": "Inglés Especialidad",
+    "codeV1": "INGESP",
+    "codeV2": "INGE",
+    "codeV3": "INGESP",
+    "codeV4": "IESP",
+    "code": ""
+  },
+  {
+    "name": "Inglés Plan Nacional",
+    "codeV1": "INGPLAN",
+    "codeV2": "IPN",
+    "codeV3": "INGPN",
+    "codeV4": "IPNA",
+    "code": ""
+  },
+  {
+    "name": "Inglés Turismo",
+    "codeV1": "INGTUR",
+    "codeV2": "INT",
+    "codeV3": "INGTUR",
+    "codeV4": "ITUR",
+    "code": ""
+  },
+  {
+    "name": "Inglés Web",
+    "codeV1": "INGWEB",
+    "codeV2": "INW",
+    "codeV3": "INWEB",
+    "codeV4": "IWEB",
+    "code": ""
+  },
+  {
+    "name": "Mantenimiento Preventivo",
+    "codeV1": "MANTPRE",
+    "codeV2": "MAP",
+    "codeV3": "MANPRE",
+    "codeV4": "MPRE",
+    "code": ""
+  },
+  {
+    "name": "Matemáticas",
+    "codeV1": "MAT",
+    "codeV2": "MAT",
+    "codeV3": "MAT",
+    "codeV4": "MATE",
+    "code": ""
+  },
+  {
+    "name": "Merceología y Trámites Aduaneros",
+    "codeV1": "MERADU",
+    "codeV2": "MTA",
+    "codeV3": "MERTRA",
+    "codeV4": "MYTA",
+    "code": ""
+  },
+  {
+    "name": "Mi Pequeño Negocio",
+    "codeV1": "MIPENEG",
+    "codeV2": "PEN",
+    "codeV3": "MIPNEG",
+    "codeV4": "MIPN",
+    "code": ""
+  },
+  {
+    "name": "Normativa Legal",
+    "codeV1": "NORLEG",
+    "codeV2": "NOL",
+    "codeV3": "NORLEG",
+    "codeV4": "NOLE",
+    "code": ""
+  },
+  {
+    "name": "Oficina Moderna",
+    "codeV1": "OFIMOD",
+    "codeV2": "OFM",
+    "codeV3": "OFIMOD",
+    "codeV4": "OFMO",
+    "code": ""
+  },
+  {
+    "name": "Organización de Grupos",
+    "codeV1": "ORGGRUP",
+    "codeV2": "ORG",
+    "codeV3": "ORGGRU",
+    "codeV4": "ORGR",
+    "code": ""
+  },
+  {
+    "name": "Orientación",
+    "codeV1": "ORIEN",
+    "codeV2": "ORI",
+    "codeV3": "ORI",
+    "codeV4": "ORIE",
+    "code": ""
+  },
+  {
+    "name": "Preparación de Bebidas",
+    "codeV1": "PREBEB",
+    "codeV2": "PRB",
+    "codeV3": "PREBEB",
+    "codeV4": "PRBE",
+    "code": ""
+  },
+  {
+    "name": "Producción Agrícola",
+    "codeV1": "PRODAGR",
+    "codeV2": "POA",
+    "codeV3": "PRODAG",
+    "codeV4": "PRAG",
+    "code": ""
+  },
+  {
+    "name": "Producción Pecuaria",
+    "codeV1": "PRODPEC",
+    "codeV2": "POP",
+    "codeV3": "PRODPE",
+    "codeV4": "PRPE",
+    "code": ""
+  },
+  {
+    "name": "Programación Web",
+    "codeV1": "PROGWEB",
+    "codeV2": "PRW",
+    "codeV3": "PROWEB",
+    "codeV4": "PWEB",
+    "code": ""
+  },
+  {
+    "name": "Proyectos Rurales",
+    "codeV1": "PROYRUR",
+    "codeV2": "PRR",
+    "codeV3": "PROYRU",
+    "codeV4": "PRRU",
+    "code": ""
+  },
+  {
+    "name": "Psicología",
+    "codeV1": "PSIC",
+    "codeV2": "PSI",
+    "codeV3": "PSI",
+    "codeV4": "PSIC",
+    "code": ""
+  },
+  {
+    "name": "Química",
+    "codeV1": "QUIM",
+    "codeV2": "QUI",
+    "codeV3": "QUI",
+    "codeV4": "QUIM",
+    "code": ""
+  },
+  {
+    "name": "Reforzamiento",
+    "codeV1": "REFOR",
+    "codeV2": "REF",
+    "codeV3": "REF",
+    "codeV4": "REFO",
+    "code": ""
+  },
+  {
+    "name": "Servicios de Salón",
+    "codeV1": "SERSAL",
+    "codeV2": "SES",
+    "codeV3": "SERSAL",
+    "codeV4": "SDSL",
+    "code": ""
+  },
+  {
+    "name": "Sistema de Producción Sostenible",
+    "codeV1": "SISPROS",
+    "codeV2": "SPE",
+    "codeV3": "SIPSOS",
+    "codeV4": "SPPS",
+    "code": ""
+  },
+  {
+    "name": "Soporte TI",
+    "codeV1": "SOPTIT",
+    "codeV2": "SOT",
+    "codeV3": "SOTI",
+    "codeV4": "SOTI",
+    "code": ""
+  },
+  {
+    "name": "Tecnologías de la Información",
+    "codeV1": "TECINFO",
+    "codeV2": "TEI",
+    "codeV3": "TECINF",
+    "codeV4": "TINF",
+    "code": ""
+  },
+  {
+    "name": "TICS",
+    "codeV1": "TICS",
+    "codeV2": "TIC",
+    "codeV3": "TICS",
+    "codeV4": "TICS",
+    "code": ""
+  },
+  {
+    "name": "Trabajo en Cuero",
+    "codeV1": "TRACUER",
+    "codeV2": "TRC",
+    "codeV3": "TRACUE",
+    "codeV4": "TRCU",
+    "code": ""
+  },
+  {
+    "name": "Tratados de Libre Comercio",
+    "codeV1": "TRALICOM",
+    "codeV2": "TLC",
+    "codeV3": "TLC",
+    "codeV4": "TLCO",
+    "code": ""
   }
 ]
