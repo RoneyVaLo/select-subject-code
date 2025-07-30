@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Actividades Turísticas",
+    "codeV1": "ACTUR",
+    "codeV2": "ACT",
+    "codeV3": "ACTUR",
+    "codeV4": "ACTU",
+    "code": ""
+  },
+  {
+    "name": "Agro Ecoturismo",
+    "codeV1": "AGROECO",
+    "codeV2": "AGE",
+    "codeV3": "AGROECO",
+    "codeV4": "AGEC",
+    "code": ""
+  },
+  {
+    "name": "Agronegocios",
+    "codeV1": "AGRONEG",
+    "codeV2": "AGR",
+    "codeV3": "AGNEG",
+    "codeV4": "AGNE",
+    "code": ""
+  },
+  {
+    "name": "Archivar para el Futuro",
+    "codeV1": "ARCHFUT",
+    "codeV2": "ARF",
+    "codeV3": "ARCFUT",
+    "codeV4": "ARFU",
+    "code": ""
+  }
+]
